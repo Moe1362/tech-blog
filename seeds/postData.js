@@ -5,27 +5,27 @@ const {
 //below is the first equine blog post box and then more mock up ones for demo
 
 const postData = [{
-        title: "First Blog Post",
+        title: "1 Blog Post",
         content: "This is the content of the first blog post.",
         user_id: 1,
     },
     {
-        title: "Second Blog Post",
+        title: "2 Blog Post",
         content: "This is the content of the second blog post.",
         user_id: 2,
     },
     {
-        title: "Third Blog Post",
+        title: "3 Blog Post",
         content: "This is the content of the third blog post.",
         user_id: 3,
     },
     {
-        title: "Fourth Blog Post",
+        title: "4 Blog Post",
         content: "This is the content of the fourth blog post.",
         user_id: 4,
     },
     {
-        title: "Fifth Blog Post",
+        title: "5 Blog Post",
         content: "This is the content of the fifth blog post.",
         user_id: 5,
     }
